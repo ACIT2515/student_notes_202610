@@ -1,0 +1,48 @@
+salt
+pepper
+garlic
+onion
+tomatoes
+
+basil
+oregano
+thyme
+rosemary
+parsley
+
+olive oil
+vinegar
+soy sauce
+honey
+mustard
+
+chicken
+beef
+pork
+fish
+shrimp
+
+salt
+pepper
+garlic
+onion
+tomatoes
+
+basil
+oregano
+thyme
+rosemary
+parsley
+
+
+olive oil
+vinegar
+soy sauce
+honey
+mustard
+
+chicken
+beef
+pork
+fish
+shrimp

@@ -1,0 +1,50 @@
+[
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\.utility\\hooks",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\.git\\hooks"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\demos\\argparse",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\demos\\argparse"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\demos\\file_intro",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\demos\\file_intro"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\excercises\\wk01_ex01_character_frequency.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\exercises\\week01\\wk01_ex01\\wk01_ex01.md"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\excercises\\wk01_ex02_contacts.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\exercises\\week01\\wk01_ex02\\wk01_ex02.md"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\excercises\\wk01_ex02_contacts_data",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\exercises\\week01\\wk01_ex02\\people"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\how_to\\debug_with_arguments.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\how_to\\debug_with_arguments.md"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\how_to\\install_python_314_windows.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\how_to\\install_python_314_windows.md"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\notes\\001_intro.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\notes\\001_intro.md"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\notes\\010_basics_review.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\notes\\010_basics.md"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\notes\\012_flat_project_layout.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\notes\\012_flat_project_layout.md"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\references.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\references.md"
+  }
+]
