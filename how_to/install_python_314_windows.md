@@ -24,7 +24,7 @@ Python is now recommended to be installed with the "Python Install Manager" unde
 1. Install Python 3.14:
 
    ```powershell
-   pymanager install 4.14
+   pymanager install 3.14
    ``` 
 
 
