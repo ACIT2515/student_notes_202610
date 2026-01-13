@@ -8,16 +8,44 @@
     "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\demos\\file_intro"
   },
   {
-    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\excercises\\wk01_ex01_character_frequency.md",
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\demos\\modules_packages",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\demos\\modules_packages"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\demos\\recursion_intro",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\demos\\recursion\\intro"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\exercises\\wk01_ex01_character_frequency.md",
     "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\exercises\\week01\\wk01_ex01\\wk01_ex01.md"
   },
   {
-    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\excercises\\wk01_ex02_contacts.md",
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\exercises\\wk01_ex02_contacts.md",
     "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\exercises\\week01\\wk01_ex02\\wk01_ex02.md"
   },
   {
-    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\excercises\\wk01_ex02_contacts_data",
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\exercises\\wk01_ex02_contacts_data",
     "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\exercises\\week01\\wk01_ex02\\people"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\exercises\\wk02_ex01_traceroute\\.vscode",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\acit2515_instr\\activities\\recursion\\traceroute\\.vscode"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\exercises\\wk02_ex01_traceroute\\icmpy_utility.py",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\activities\\recursion\\traceroute\\icmp_utility.py"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\exercises\\wk02_ex01_traceroute\\instructions.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\activities\\recursion\\traceroute\\intructions.md"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\exercises\\wk02_ex01_traceroute\\traceroute.py",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\activities\\recursion\\traceroute\\traceroute.py"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\exercises\\wk02_ex01_traceroute\\traceroute_accumulate.py",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\activities\\recursion\\traceroute\\traceroute_accumulate.py"
   },
   {
     "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\how_to\\debug_with_arguments.md",
@@ -38,6 +66,10 @@
   {
     "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\notes\\012_flat_project_layout.md",
     "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\notes\\012_flat_project_layout.md"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\notes\\020_modules_packages_imports.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\notes\\020_modules_packages_imports.md"
   },
   {
     "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\references.md",
