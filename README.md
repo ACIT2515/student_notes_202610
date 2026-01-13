@@ -81,5 +81,6 @@ and labs
 
 ### Flipped
 
-1. [Virtual Environments]
-1. [`UV` Intro]
+1. [Virtual Environments: Background](/notes/030_venv_background.md)
+2. [Virtual Environments: Operations](/notes/031_venv_operations.md)
+3. [Managing Python Projects With uv: An All-in-One Solution](https://realpython.com/python-uv/)
