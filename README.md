@@ -102,7 +102,8 @@ and labs
 
 ### Virtual Environments and `uv`
 
-1. [Excercise: Rest-Client Implementation](/exercises/wk03_ex05_rest_client/README.md)
+1. [Excercise: Rest-Client Implementation](/exercises/wk03_ex05_rest_client/exploration_activity.md)
+   1. [Rest-Client README](/exercises/wk03_ex05_rest_client/README.md)
 1. [Lab: `process_snapshot`](/labs/wk03_lab01_process_snapshot/)
 
 ### References
