@@ -104,3 +104,16 @@ and labs
 
 1. [Excercise: Rest-Client Implementation](/exercises/wk03_ex05_rest_client/README.md)
 1. [Lab: `process_snapshot`](/labs/wk03_lab01_process_snapshot/)
+
+### References
+
+1. [`nonlocal`](https://realpython.com/ref/keywords/nonlocal/)
+1. [Closures](https://realpython.com/python-closure/)
+1. [Decorators](https://realpython.com/primer-on-python-decorators)
+1. [VSCode Environments](https://code.visualstudio.com/docs/python/environments)
+
+### Flipped
+
+1. [Testing with Pytest](https://learning.oreilly.com/videos/python-testing-for/27675040VIDEOPAIML/27675040VIDEOPAIML-c1_s4/)
+2. [Using Asserts Pytest](https://learning.oreilly.com/videos/python-testing-for/27675040VIDEOPAIML/27675040VIDEOPAIML-c2_s2/)
+
