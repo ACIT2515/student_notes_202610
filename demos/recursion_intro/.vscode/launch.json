@@ -17,7 +17,7 @@
       "name": "Python Debugger: Nested List Sum",
       "type": "debugpy",
       "request": "launch",
-      "program": "${workspaceFolder}/03_nested_list_sum_demo.py",
+      "program": "${file}",
       "console": "integratedTerminal"
     },
  ],

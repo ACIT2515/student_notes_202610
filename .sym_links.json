@@ -48,6 +48,18 @@
     "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\activities\\recursion\\traceroute\\traceroute_accumulate.py"
   },
   {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\exercises\\wk03_ex01_unpacking_py_position_args.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\exercises\\argument_unpacking\\unpacking_by_position_args.md"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\exercises\\wk03_ex02_unpacking_w_keywords_kwargs.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\exercises\\argument_unpacking\\unpacking_w_keywords_kwargs.md"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\exercises\\wk03_ex03_call_count_decorator.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\exercises\\decorators\\call_count_decorator\\call_count_decorator.md"
+  },
+  {
     "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\how_to\\debug_with_arguments.md",
     "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\how_to\\debug_with_arguments.md"
   },
@@ -78,6 +90,14 @@
   {
     "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\notes\\031_venv_operations.md",
     "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\notes\\venv_operations.md"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\notes\\032_argument_unpacking_args_kwargs.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\notes\\argument_unpacking_args_kwargs.md"
+  },
+  {
+    "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\notes\\033_higher_order_functions_decorators.md",
+    "Target": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_instr\\notes\\higher_order_functions_decorators.md"
   },
   {
     "Path": "C:\\Users\\thomas_lane\\work\\course_content\\acit2515_student\\references.md",

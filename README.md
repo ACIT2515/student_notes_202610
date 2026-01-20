@@ -48,7 +48,6 @@ and labs
    [Problem Solving and Decomposition](https://learning.oreilly.com/library/view/computational-thinking/9781780173641/html/15_Ch03.xhtml)
 
 1. Review: Type annotations
-
    1. [Type Hints and Documentation](https://learning.oreilly.com/library/view/introducing-python-3rd/9781098174392/ch14.html)
    1. [Basic Typing Python](https://learning.oreilly.com/videos/practical-typing-in/0636920961307/0636920961307-video360000/)
    1. [Annotating Functions](https://learning.oreilly.com/videos/practical-typing-in/0636920961307/0636920961307-video360008/)
@@ -56,7 +55,7 @@ and labs
 1. Review:
    [Defining Your Own Python Functions](https://realpython.com/defining-your-own-python-function/)
 
-# Week 02
+## Week 02
 
 ### Modules and Packages
 
@@ -73,6 +72,7 @@ and labs
 
 #### Packages and Modules
 
+1. [Python Tutorial: Modules and Packages](https://docs.python.org/3/tutorial/modules.html)
 1. [Project Structure and Imports](https://learning.oreilly.com/library/view/dead-simple-python/9781098156671/c04.xhtml)
 
 #### Recursion
@@ -84,3 +84,23 @@ and labs
 1. [Virtual Environments: Background](/notes/030_venv_background.md)
 2. [Virtual Environments: Operations](/notes/031_venv_operations.md)
 3. [Managing Python Projects With uv: An All-in-One Solution](https://realpython.com/python-uv/)
+
+## Week 03
+
+### Argument Unpacking
+
+1. [Notes: Argument Unpacking: Args, Kwargs, \*, \*\*](/notes/032_argument_unpacking_args_kwargs.md)
+1. [Exercise: Unpacking by Position](/exercises/wk03_ex01_unpacking_py_position_args.md)
+1. [Exercise: Unpacking with Keywords](/exercises/wk03_ex02_unpacking_w_keywords_kwargs.md)
+
+### Decorators
+
+1. [Demo: decorators](/demos/decorators/decorators.py)
+1. [Notes: Higher Order Functions, Closures, and Decorators](/notes/033_higher_order_functions_decorators.md)
+1. [Exercise: `call_count` decorator](/exercises/wk03_ex03_call_count_decorator.md)
+1. [Exercise: Scopes, Closures, and Decorators](exercises/wk03_ex04_scopes_w_decorators/scopes_w_decorators_exploration.md)
+
+### Virtual Environments and `uv`
+
+1. [Excercise: Rest-Client Implementation](/exercises/wk03_ex05_rest_client/README.md)
+1. [Lab: `process_snapshot`](/labs/wk03_lab01_process_snapshot/)
