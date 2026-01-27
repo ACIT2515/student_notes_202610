@@ -118,3 +118,23 @@ and labs
 1. [Testing with Pytest](https://learning.oreilly.com/videos/python-testing-for/27675040VIDEOPAIML/27675040VIDEOPAIML-c1_s4/)
 2. [Using Asserts Pytest](https://learning.oreilly.com/videos/python-testing-for/27675040VIDEOPAIML/27675040VIDEOPAIML-c2_s2/)
 
+## Week 04
+
+### Testing and `pytest`
+
+1. [`pytest` Introduction](notes/040_pytest.md)
+1. [Exercise: Introduction to `pytest`](exercises/wk04_ex01_intro_pytest.md)
+1. [`pytest` Fixtures](notes/041_pytest_fixtures.md)
+1. [Lab: `pytest` Fixtures](labs/wk04_lab01_pytest_fixtures/intro_pytest_fixtures.md)
+
+### References
+
+1. [Getting Started with Pytest](https://learning.oreilly.com/library/view/python-testing-with/9781680509427/f_0013.xhtml#ch.getting_started)]
+2. [Writing Test Functions](https://learning.oreilly.com/library/view/python-testing-with/9781680509427/f_0019.xhtml#ch.test_functions)
+1. [Pytest Fixtures](https://learning.oreilly.com/library/view/python-testing-with/9781680509427/f_0032.xhtml#ch.fixtures)
+1. [Pytest Builtin-Fixtures](https://learning.oreilly.com/library/view/python-testing-with/9781680509427/f_0047.xhtml#ch.builtin_fixtures)
+
+### Flipped
+
+1. [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
+1. [Python `with` Statement](https://realpython.com/python-with-statement/) - up to Summarizing with statements advantages.
