@@ -154,6 +154,7 @@ and labs
 
 1. Lab 01
    1. Set A: https://classroom.github.com/a/G21567OP
+   1. Set B: https://classroom.github.com/a/xjMybz08
    1. Set C: https://classroom.github.com/a/pwking59
 
 #### References
