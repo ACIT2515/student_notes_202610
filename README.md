@@ -138,3 +138,33 @@ and labs
 
 1. [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
 1. [Python `with` Statement](https://realpython.com/python-with-statement/) - up to Summarizing with statements advantages.
+
+
+## Week 06
+
+### Reading and Writing Structured Files
+
+1. [Working with JSON Data](https://realpython.com/python-json/)
+1. [Reading and Writing CSV Files](https://realpython.com/python-csv/)
+
+### Exceptions
+
+1. Lab 01
+   1. Set A: https://classroom.github.com/a/G21567OP
+   1. Set C: https://classroom.github.com/a/pwking59
+
+### Flipped 
+
+#### OO Introduction and Review: Video
+
+1. [OOP Concepts](https://learning.oreilly.com/videos/python-object-oriented/9781837638765/9781837638765-video1_2/)
+1. [Creating Object Attributes](https://learning.oreilly.com/videos/python-object-oriented/9781837638765/9781837638765-video1_3/)
+1. [Creating Object Methods](https://learning.oreilly.com/videos/python-object-oriented/9781837638765/9781837638765-video1_4/)
+1. [Printing Objects](https://learning.oreilly.com/videos/python-object-oriented/9781837638765/9781837638765-video1_5/)
+1. [Inheritance and Abstraction](https://learning.oreilly.com/videos/python-object-oriented/9781837638765/9781837638765-video2_1/)
+1. [Class vs Object Attributes](https://learning.oreilly.com/videos/python-object-oriented/9781837638765/9781837638765-video3_1/)
+1. [Class Methods](https://learning.oreilly.com/videos/python-object-oriented/9781837638765/9781837638765-video3_2/)
+1. [Encapsulation: Public and Private Visibility](https://learning.oreilly.com/videos/python-object-oriented/9781837638765/9781837638765-video4_1/)
+1. [Encapsulation: Getters and Setters](https://learning.oreilly.com/videos/python-object-oriented/9781837638765/9781837638765-video4_2/)
+1. [Encapsulation: Methods as Attributes](https://learning.oreilly.com/videos/python-object-oriented/9781837638765/9781837638765-video4_3/)
+
