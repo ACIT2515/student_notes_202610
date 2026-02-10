@@ -126,6 +126,9 @@ and labs
 1. [Exercise: Introduction to `pytest`](exercises/wk04_ex01_intro_pytest.md)
 1. [`pytest` Fixtures](notes/041_pytest_fixtures.md)
 1. [Lab: `pytest` Fixtures](labs/wk04_lab01_pytest_fixtures/intro_pytest_fixtures.md)
+   1. Set C Submissions: https://classroom.github.com/a/vM4w7g-P
+   1. Set B Submissions: 
+
 
 ### References
 
