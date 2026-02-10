@@ -127,7 +127,7 @@ and labs
 1. [`pytest` Fixtures](notes/041_pytest_fixtures.md)
 1. [Lab: `pytest` Fixtures](labs/wk04_lab01_pytest_fixtures/intro_pytest_fixtures.md)
    1. Set C Submissions: https://classroom.github.com/a/vM4w7g-P
-   1. Set B Submissions: 
+   1. Set B Submissions: https://classroom.github.com/a/O5GHbXUg 
 
 
 ### References
@@ -155,6 +155,10 @@ and labs
 1. Lab 01
    1. Set A: https://classroom.github.com/a/G21567OP
    1. Set C: https://classroom.github.com/a/pwking59
+
+#### References
+
+1. [Builtin Exceptions](https://docs.python.org/3/library/exceptions.html)
 
 ### Flipped 
 
