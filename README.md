@@ -152,6 +152,14 @@ and labs
 
 ### Exceptions
 
+#### Demo
+
+1. [`exceptions_intro.py`](./demos/exceptions/exceptions_intro.py)
+1. [`basic_exceptions.py`](./demos/exceptions/basic_exceptions.py)
+1. [`checkin.py`](./demos/exceptions/checkin.py) Simple App With Exception Handling
+
+#### Lab
+
 1. Lab 01
    1. Set A: https://classroom.github.com/a/G21567OP
    1. Set B: https://classroom.github.com/a/xjMybz08
