@@ -220,13 +220,13 @@ Mid-term
 
 ## Week 10
 
-## Inheritence, ABC
+### Inheritance, ABC
 
 ### Notes
 
 1. [Inheritence, Abstract Base Classes](./notes/100_oo_inheritence_abc.md)
 
-#### Exercies
+#### Exercise
 
 1. [wk10_ex01_shapes](/exercises/wk10_ex01_shapes/README.md)
 1. [wk10_ex02: Warlord's Siege](/exercises/wk10_ex02_fantasy_game.md)
