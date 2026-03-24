@@ -27,6 +27,9 @@ def create_app():
     # Get grandparent directory of this file
     parent_dir = Path(__file__).resolve().parent.parent
 
+    # Ensure the instance directory exists
+    (parent_dir / "instance").mkdir(exist_ok=True)
+
     # Initialize Peewee database with the SQLite file path
     # Unlike Flask-SQLAlchemy, Peewee uses db.init() to set the database path
     # The database file will be stored at: /project/instance/tasks_05.db

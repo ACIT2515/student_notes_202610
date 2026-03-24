@@ -43,6 +43,9 @@ def create_app():
     # Get grandparent directory of this file
     parent_dir = Path(__file__).resolve().parent.parent
 
+    # Ensure the instance directory exists
+    (parent_dir / "instance").mkdir(exist_ok=True)
+
     # Initialize Peewee database with the SQLite file path
     db.init(str(parent_dir / "instance" / "tasks_06.db"))
 
