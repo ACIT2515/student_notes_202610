@@ -280,3 +280,9 @@ This is the project that you will be working on for the duration of the course.
 
 1. [Project: Server Fleet Monitor Overview](/project/project_server_fleet_monitor_overview.md)
 1. [Project: Part 1 - Server Fleet Monitor Agent](/project/project_server_fleet_monitor_agent.md)
+
+### Per Set Project Part 1 Repositories
+
+1. Set A: https://classroom.github.com/a/5oRNAnDv
+1. Set B: https://classroom.github.com/a/1WY4wnJL
+1. Set C: https://classroom.github.com/a/hC37POJ_
