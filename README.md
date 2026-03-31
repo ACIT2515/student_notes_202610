@@ -286,3 +286,30 @@ This is the project that you will be working on for the duration of the course.
 1. Set A: https://classroom.github.com/a/5oRNAnDv
 1. Set B: https://classroom.github.com/a/1WY4wnJL
 1. Set C: [https://classroom.github.com/a/hC37POJ_](https://classroom.github.com/a/hC37POJ_)
+
+## Week 13
+
+### HTTP Clients
+
+#### Notes
+
+1. [HTTP Python Clients using HTTPX](/notes/120_httpx_python_http_clients.md)
+
+#### Exercise
+
+1. [wk12_ex01_simple_http_client](/exercises/wk12_ex01_simple_http_client/simple_http_client_exercise.md)
+
+### ORM
+
+#### Demo
+
+1. [Simple ORM Demo: Flask and Peewee](/demos/simple_orm_demo/README.md)
+
+#### Notes
+
+1. [Flask ORM](/notes/121_flask_orm.md)
+1. [Flask Application Lifecycle and Contexts](/notes/122_flask_application_lifecycle_contexts.md)
+
+#### Exercises
+
+1. [wk12_ex02_simple_orm](/exercises/wk12_ex02_simple_orm_exercise.md)
