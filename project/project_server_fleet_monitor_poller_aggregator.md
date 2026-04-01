@@ -516,7 +516,7 @@ The application factory — same structure as the Simple ORM Exercise:
 4. Register `before_request` (open connection) and `teardown_appcontext`
    (close connection) hooks
 5. Create the database tables
-6. Register the API Blueprint with the `/fleet` prefix
+6. Register the API Blueprint
 
 > **Important — testable factory:** The factory must accept an optional
 > `db_path` parameter so tests can redirect the database to a temporary file:
@@ -529,9 +529,8 @@ The application factory — same structure as the Simple ORM Exercise:
 
 ### File 5: `fleet_api/api/__init__.py`
 
-Define the Blueprint and import routes at the bottom of the file (same pattern
-as Part 1). The Blueprint itself does **not** carry the URL prefix — the
-factory sets `/fleet` when it registers the blueprint.
+Define the Blueprint with the `/fleet` URL prefix and import routes at the
+bottom of the file (same pattern as Part 1).
 
 ### File 6: `fleet_api/api/routes.py`
 
@@ -795,6 +794,8 @@ in the database and served through the aggregation API.
 ---
 
 ## Checklist
+
+Before submitting, verify:
 
 - [ ] Downloaded files are in the correct locations (`run_server.py`,
       `tests/conftest.py`, `tests/test_fleet_api.py`, `tests/test_poller.py`)
